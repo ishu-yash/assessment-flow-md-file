@@ -24,7 +24,7 @@
      - **Tags :** This column gives info about tags added to the assessment.
      - **Actions :** This column is provided with actions namely **Clone**, **Export** and **Delete** the assessment template.
  4. User can filter the assessment list on the basis of tags, by clicking on filter button which offers, user a list of tags to select from. On selecting tags, filters are applied to the list.
-## Issue Template Flow:
+## <a id="issue-templates"> Issue Template Flow :</a>
  1. On clicking  **Issue Templates** option, user is navigated to [http://localhost:3000/#/admin/templates/issue-templates](http://localhost:3000/#/admin/templates/issue-templates).
  2. Here user has one button at top right corner :
 	 - **Add Issue Template :**
@@ -55,7 +55,7 @@
 	 - **Enabled :** This column tells whether the issue template is enabled or not.
 	- **Default**: This column tells whether the issue template is default or not.
 	- **Actions :** This column is provided with actions namely **Clone** and **Delete** for cloning  and deleting the issue template respectively.
-## Similarities Between Two Flows:
+## <a id="common">Similarities Between Two Flows :</a>
  1. **Cloning :** Assessment Template List and Issue Template List both are provided with an action button for cloning template. On clicking the clone button, a popover opens which asks for confirmation for cloning. On clicking **Ok** button, the selected template is cloned.
  
  2. **Deletion :** Assessment Template List and Issue Template List both are provided with an action button for deleting template. On clicking delete button from **Actions** column, a popover opens which asks for confirmation for deletion. On clicking **Ok** button, the selected template is deleted.
@@ -66,6 +66,5 @@
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDczNDA3NjMsLTIwNjY5NTUwNTFdfQ
-==
+eyJoaXN0b3J5IjpbLTkyNzQ3MjIzMywtMjA2Njk1NTA1MV19
 -->
