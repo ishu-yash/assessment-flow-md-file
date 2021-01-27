@@ -2,7 +2,8 @@
 * [Assessments Templates Flow](#assessment-templates)
 * [Issue Template Flow](#issue-templates)
 * [Similarities Between Two Flows](#common)
-## Assessments Templates Flow:
+
+## <a id="assessment-templates">Assessments Templates Flow</a>
 
  1. On clicking  **Assessments Templates** option, user is navigated to [http://localhost:3000/#/admin/templates/assessment-templates](http://localhost:3000/#/admin/templates/assessment-templates)
  2. Here user has two buttons at the top right corner namely:
@@ -65,5 +66,6 @@
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyOTkxMjY1NCwtMjA2Njk1NTA1MV19
+eyJoaXN0b3J5IjpbLTIxNDczNDA3NjMsLTIwNjY5NTUwNTFdfQ
+==
 -->
