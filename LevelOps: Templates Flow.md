@@ -1,4 +1,7 @@
 # LevelOps: Templates Flow
+* [Assessments Templates Flow](#common)
+* [Assessment Templates](#assessment-templates)
+* [Issue Templates](#issue-templates)
 ## Assessments Templates Flow:
 
  1. On clicking  **Assessments Templates** option, user is navigated to [http://localhost:3000/#/admin/templates/assessment-templates](http://localhost:3000/#/admin/templates/assessment-templates)
@@ -62,5 +65,5 @@
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjY5NTUwNTFdfQ==
+eyJoaXN0b3J5IjpbNDczNDA4MjQ0LC0yMDY2OTU1MDUxXX0=
 -->
