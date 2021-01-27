@@ -10,7 +10,7 @@
      - **Import from CSV :**
          - On clicking this button a **Modal** opens up which offers, drag and drop or browse from device, for uploading CSV file.
      - **Add Assessment Template :**
-         - On clicking this button user is navigated to [http://localhost:3000/#/admin/templates/assessment-templates/create](http://localhost:3000/#/admin/templates/assessment-templates/create) and a **Assessment Template Settings** modal opens up by default. This modal allows user to set **Name** of assessment template, select **Knowledge Base** from the knowledge base list, select **Tags** from tags list and toggle **Risk Scoring Enabled**. On clicking **Ok** button a basic skeleton of users new assessment template is created.
+         - On clicking this button user is navigated to [http://localhost:3000/#/admin/templates/assessment-templates/create](http://localhost:3000/#/admin/templates/assessment-templates/create) and a **Assessment Template Settings** modal opens up by default. This modal allows user to set  basic information about the template**Name** of assessment template, select **Knowledge Base** from the knowledge base list, select **Tags** from tags list and toggle **Risk Scoring Enabled**. On clicking **Ok** button a basic skeleton of users new assessment template is created.
          
          - Now user can add more sections by clicking **Add Section** button on the left provided **Sections Column**. On clicking the button a new section is created . User can provide **Title**, **Description** and add **Questions** to the newly created section. On selecting option type from the list, which opens on clicking **Add question to your section** button, present at the bottom of the right column, a **Edit Question Modal**  opens for editing question. Here user can give title to question and options, added or remove options etc. Once user has done editing, on clicking **Ok** button new question is added to the section. 
          - User can also **Delete** or **Edit** newly created question by clicking on the three vertical dots provided at the top right corner of each question. On clicking **Edit**, **Edit Question Modal** opens.
@@ -66,5 +66,6 @@
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM5Njc3OTg5LC0yMDY2OTU1MDUxXX0=
+eyJoaXN0b3J5IjpbLTE2MDU5NzAxMDcsNjM5Njc3OTg5LC0yMD
+Y2OTU1MDUxXX0=
 -->
