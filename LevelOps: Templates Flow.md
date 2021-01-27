@@ -24,8 +24,9 @@
 	
          - Once, user has added all the sections, user can save the assessment template by clicking **Save** button which navigates the user back to [http://localhost:3000/#/admin/templates/assessment-templates](http://localhost:3000/#/admin/templates/assessment-templates) .
          - User can edit assessment settings by clicking **Settings** button  which opens **Assessment Template Settings** modal . This modal allows user to set  basic information about the template like **Name**, **Knowledge Base**, **Tags**  etc. 
-         On clicking **Ok** button new settings are applied. User can also export the selected assessment template by clicking on **Export** button.
-     - **Updated on :** This column gives date of last updation.
+         On clicking **Ok** button new settings are applied. 
+		- User can also export the selected assessment template by clicking on **Export** button.
+     - **Updated on :** This column gives date of template's last updation.
      - **Tags :** This column gives info about tags added to the assessment.
      - **Actions :** This column is provided with actions namely **Clone**, **Export** and **Delete** the assessment template.
  4. User can filter the assessment list on the basis of tags, by clicking on filter button which offers, user a list of tags to select from. On selecting tags, filters are applied to the list.
@@ -71,6 +72,6 @@
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzkwNzcxNjQxLDYzOTY3Nzk4OSwtMjA2Nj
-k1NTA1MV19
+eyJoaXN0b3J5IjpbMjExOTkwMjUyMCw2Mzk2Nzc5ODksLTIwNj
+Y5NTUwNTFdfQ==
 -->
