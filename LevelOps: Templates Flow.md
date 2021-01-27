@@ -33,7 +33,8 @@
  4. User can filter the assessment list on the basis of tags, by clicking on filter button which offers, user a list of tags to select from. On selecting tags, filters are applied to the list.
 ## <a id="issue-templates"> Issue Template Flow :</a>
  1. On clicking  **Issue Templates** option, user is navigated to [http://localhost:3000/#/admin/templates/issue-templates](http://localhost:3000/#/admin/templates/issue-templates).
- 2. Here user has one button at top right corner :
+ 
+ 3. Here user has one button at top right corner :
 	 - **Add Issue Template :**
 	   -  On clicking this button user is navigated to [http://localhost:3000/#/admin/templates/issue-templates/edit](http://localhost:3000/#/admin/templates/issue-templates/edit) which is **Configure Template** page. This page allows user to add custom fields and assessments to the ticket template.
 	   - Here user can set/change settings of the issue templates by clicking **Settings** button at the top right corner. A **Settings Modal** opens with allows user to toggle **Enable**, make current issue template **Default** once enabled, set **Name** and **Description** of Template. On clicking **Ok** button, settings are applied.
@@ -55,7 +56,7 @@
 				- **Settings :** On clicking this option, **Field Setting Modal** opens. User can mark the field **Hidden** or **Required**,  change **Label** or **Type** etc. On clicking **Ok** button settings are applied.
 				- **Delete :** Clicking this option deletes the field.
 		- Once user has set Template name in **Settings**, **Save** button is enabled and now user can save issue template. On clicking save button user is navigated back to [http://localhost:3000/#/admin/templates/issue-templates](http://localhost:3000/#/admin/templates/issue-templates).
- 3. User is presented with a table which has following five columns:
+ 4. User is presented with a table which has following five columns:
 	- **Name :**	    
 		- On clicking any cell user is navigated to [http://localhost:3000/#/admin/templates/issue-templates/edit?template={id}](http://localhost:3000/#/admin/templates/issue-templates/edit).  Here **id** is the id of clicked issue template. The function of the current page is same as the page to which user gets navigated on clicking **Add Issue Template** button.
 	- **Updated On :** This column gives date of last updation of issue template.
@@ -73,6 +74,6 @@
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NDkzODQ1MCw2Mzk2Nzc5ODksLTIwNj
-Y5NTUwNTFdfQ==
+eyJoaXN0b3J5IjpbODczNTAwOTYsNjM5Njc3OTg5LC0yMDY2OT
+U1MDUxXX0=
 -->
