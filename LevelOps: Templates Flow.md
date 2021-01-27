@@ -37,6 +37,7 @@
  3. Here user has one button at top right corner :
 	 - **Add Issue Template :**
 	   -  On clicking this button user is navigated to [http://localhost:3000/#/admin/templates/issue-templates/edit](http://localhost:3000/#/admin/templates/issue-templates/edit) which is **Configure Template** page. This page allows user to add custom fields and assessments to the ticket template.
+	   
 	   - Here user can set/change settings of the issue templates by clicking **Settings** button at the top right corner. A **Settings Modal** opens with allows user to toggle **Enable**, make current issue template **Default** once enabled, set **Name** and **Description** of Template. On clicking **Ok** button, settings are applied.
 	   - On the left column user is provided with three panels:
 		   - **Assessments :** This allows user to select assessment from list of available assessments.
@@ -74,6 +75,6 @@
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODczNTAwOTYsNjM5Njc3OTg5LC0yMDY2OT
-U1MDUxXX0=
+eyJoaXN0b3J5IjpbLTEwODU3NzgxMzQsNjM5Njc3OTg5LC0yMD
+Y2OTU1MDUxXX0=
 -->
