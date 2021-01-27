@@ -36,26 +36,11 @@
  
  3. Here user has one button at top right corner :
 	 - **Add Issue Template :**
-	   -  On clicking this button user is navigated to [http://localhost:3000/#/admin/templates/issue-templates/edit](http://localhost:3000/#/admin/templates/issue-templates/edit) which is **Configure Template** page. This page allows user to add custom metadata fields and assessments to the ticket template.
+	   -  On clicking this button user is navigated to [http://localhost:3000/#/admin/templates/issue-templates/edit](http://localhost:3000/#/admin/templates/issue-templates/edit) which is **Configure Template** page. 
+	   - This page allows user to add custom metadata fields and assessments to the ticket template.
 	   
 	   - Here user can set/change settings of the issue templates by clicking **Settings** button at the top right corner. A **Settings Modal** opens with allows user to edit basic settings like setting **Name** and **Description** of the template etc. On clicking **Ok** button, settings are applied.
-	   - On the left column user is provided with three panels:
-		   - **Assessments :** This allows user to select assessment from list of available assessments.
-		   - **Workflow Metadata :** This allows user to select type of metadata fields from the following:
-			   - Single Dropdown
-				- Multi Dropdown
-			    - Dynamic Single Dropdown    
-				- Dynamic Multi Dropdown
-			   - Radio
-		     - Text
-			 - Text Area
-			  - Date 
-			- **Notifications :** This allows user to select multi ways of getting notified on **Email** or **Slack** or both.
-		- Right Column is divided into two rows :
-			- **Default Metadata Fields :** This row allows user to include/exclude default metadata fields by checking provided checkboxes adjacent to every field.
-			- **Add Additional Metadata fields :** On clicking type of metadata field from **Workflow Metadata**, that particular field is added here. User can edit field settings or delete the field, by hovering over three vertical dots at the top right corner of each field. This provides user with two options:
-				- **Settings :** On clicking this option, **Field Setting Modal** opens. User can mark the field **Hidden** or **Required**,  change **Label** or **Type** etc. On clicking **Ok** button settings are applied.
-				- **Delete :** Clicking this option deletes the field.
+	  
 		- Once user has set Template name in **Settings**, **Save** button is enabled and now user can save issue template. On clicking save button user is navigated back to [http://localhost:3000/#/admin/templates/issue-templates](http://localhost:3000/#/admin/templates/issue-templates).
  4. User is presented with a table which has following five columns:
 	- **Name :**	    
@@ -75,6 +60,6 @@
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NDMzOTIwLDYzOTY3Nzk4OSwtMjA2Nj
-k1NTA1MV19
+eyJoaXN0b3J5IjpbMTMzMzQyNjkzMiwxMTY0MzM5MjAsNjM5Nj
+c3OTg5LC0yMDY2OTU1MDUxXX0=
 -->
