@@ -39,9 +39,9 @@
 	   -  On clicking this button user is navigated to [http://localhost:3000/#/admin/templates/issue-templates/edit](http://localhost:3000/#/admin/templates/issue-templates/edit) which is **Configure Template** page. 
 	   - This page allows user to add custom metadata fields and assessments to the ticket template.
 	   
-	   - Here user can set/change settings of the issue templates by clicking **Settings** button at the top right corner. A **Settings Modal** opens with allows user to edit basic settings like setting **Name** and **Description** of the template etc. On clicking **Ok** button, settings are applied.
-	  
-		- Once user has set Template name in **Settings**, **Save** button is enabled and now user can save issue template. On clicking save button user is navigated back to [http://localhost:3000/#/admin/templates/issue-templates](http://localhost:3000/#/admin/templates/issue-templates).
+	   - Here user can set/change settings of the issue templates by clicking **Settings** button at the top right corner. A **Settings Modal** opens with allows user to edit basic settings like **Name** and **Description** of the template etc. On clicking **Ok** button, settings are applied.
+	 
+		- Once user has set Template name in **Settings**, **Save** button is enabled and now user can save issue template. On clicking **Save** button user is navigated back to [http://localhost:3000/#/admin/templates/issue-templates](http://localhost:3000/#/admin/templates/issue-templates).
  4. User is presented with a table which has following five columns:
 	- **Name :**	    
 		- On clicking any cell user is navigated to [http://localhost:3000/#/admin/templates/issue-templates/edit?template={id}](http://localhost:3000/#/admin/templates/issue-templates/edit).  Here **id** is the id of clicked issue template. The function of the current page is same as the page to which user gets navigated on clicking **Add Issue Template** button.
@@ -60,6 +60,6 @@
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzMzQyNjkzMiwxMTY0MzM5MjAsNjM5Nj
+eyJoaXN0b3J5IjpbMTgzMDQ5NjAzMCwxMTY0MzM5MjAsNjM5Nj
 c3OTg5LC0yMDY2OTU1MDUxXX0=
 -->
