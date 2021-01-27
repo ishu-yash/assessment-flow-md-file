@@ -14,9 +14,7 @@
          
          - On clicking **Ok** button a basic skeleton of users new assessment template is created.
          - Now user can edit the template by adding more sections. Each section can have any number of questions.
-         
-         - Now user can add more sections by clicking **Add Section** button on the left provided **Sections Column**. On clicking the button a new section is created . User can provide **Title**, **Description** and add **Questions** to the newly created section. On selecting option type from the list, which opens on clicking **Add question to your section** button, present at the bottom of the right column, a **Edit Question Modal**  opens for editing question. Here user can give title to question and options, added or remove options etc. Once user has done editing, on clicking **Ok** button new question is added to the section. 
-         - User can also **Delete** or **Edit** newly created question by clicking on the three vertical dots provided at the top right corner of each question. On clicking **Edit**, **Edit Question Modal** opens.
+       
          - Once, user has added all the sections, user can save the assessment template by clicking **Save** button which navigates the user back to [http://localhost:3000/#/admin/templates/assessment-templates](http://localhost:3000/#/admin/templates/assessment-templates) or can edit assessment settings by clicking **Settings** button which opens **Assessment Template Settings** modal. 
  
  3. User is presented with a table which has following four columns:
@@ -69,6 +67,6 @@
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjQwMDg5MzYsNjM5Njc3OTg5LC0yMD
+eyJoaXN0b3J5IjpbLTEwNzExNjIyMTYsNjM5Njc3OTg5LC0yMD
 Y2OTU1MDUxXX0=
 -->
