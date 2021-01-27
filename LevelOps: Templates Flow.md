@@ -22,7 +22,9 @@
 	    - On clicking any cell user is navigated to [http://localhost:3000/#/admin/templates/assessment-templates/edit?questionnaire={id}](http://localhost:3000/#/admin/templates/assessment-templates/edit).  Here **id** is the id of clicked assessment template. 
 	    - On the current open page, user can edit the template by adding more sections to it. Each section can have any number of questions.
 	
-         - Once, user has added all the sections, user can save the assessment template by clicking **Save** button which navigates the user back to [http://localhost:3000/#/admin/templates/assessment-templates](http://localhost:3000/#/admin/templates/assessment-templates) or can edit assessment settings by clicking **Settings** button  which opens **Assessment Template Settings** modal . This modal allows user to set **Name** of assessment template, select **Knowledge Base** from the knowledge base list, select **Tags** from tags list and toggle **Risk Scoring Enabled**. On clicking **Ok** button new settings are added. User can also export the selected assessment template by clicking on **Export** button.
+         - Once, user has added all the sections, user can save the assessment template by clicking **Save** button which navigates the user back to [http://localhost:3000/#/admin/templates/assessment-templates](http://localhost:3000/#/admin/templates/assessment-templates) .
+         - User can edit assessment settings by clicking **Settings** button  which opens **Assessment Template Settings** modal . This modal allows user to set  basic information about the template like **Name**, **Knowledge Base**, **Tags**  etc. 
+         On clicking **Ok** button new settings are applied. User can also export the selected assessment template by clicking on **Export** button.
      - **Updated on :** This column gives date of last updation.
      - **Tags :** This column gives info about tags added to the assessment.
      - **Actions :** This column is provided with actions namely **Clone**, **Export** and **Delete** the assessment template.
@@ -69,6 +71,6 @@
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODEwNzEwMjg0LDYzOTY3Nzk4OSwtMjA2Nj
+eyJoaXN0b3J5IjpbNzkwNzcxNjQxLDYzOTY3Nzk4OSwtMjA2Nj
 k1NTA1MV19
 -->
