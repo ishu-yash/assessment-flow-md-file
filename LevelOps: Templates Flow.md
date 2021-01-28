@@ -60,14 +60,14 @@
 -  Clicking on an existing template name should navigate you to the edit page for that template.
 -  Clicking on  **Add Template** should navigate you to create template page. 
 - On the edit template page, the update button should be enabled by default.
-5. In create template page, the create button should be disabled by default.
-6. The create/update button should be disabled if there is any required field empty.
-7. After creating/updating, you should be redirected back to the `list page for that template`.
+-  In create template page, the create button should be disabled by default.
+-  The create/update button should be disabled if there is any required field empty.
+-  After creating/updating, you should be redirected back to the  **list page for that template**.
 
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0MjU3MDYwNiwxNjc5NDc4NTkyLDE2Mz
-k3NzUwMSwxMDQ4NDM2MzkwLDE4MzA0OTYwMzAsMTE2NDMzOTIw
-LDYzOTY3Nzk4OSwtMjA2Njk1NTA1MV19
+eyJoaXN0b3J5IjpbNDc3OTk2MzksMTY3OTQ3ODU5MiwxNjM5Nz
+c1MDEsMTA0ODQzNjM5MCwxODMwNDk2MDMwLDExNjQzMzkyMCw2
+Mzk2Nzc5ODksLTIwNjY5NTUwNTFdfQ==
 -->
