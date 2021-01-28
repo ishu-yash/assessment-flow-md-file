@@ -24,7 +24,7 @@
 	    - On the current open page, user can edit the template by adding more sections to it. Each section can have any number of questions.
 	
          - Once, user has added all the sections, user can save the assessment template by clicking **Save** button which navigates the user back to [http://localhost:3000/#/admin/templates/assessment-templates](http://localhost:3000/#/admin/templates/assessment-templates) .
-         - User can edit assessment settings by clicking **Settings** button  which opens **Assessment Template Settings** modal. 
+         - User can edit assessment settings by clicking **Settings** button  which opens [**Assessment Template Settings**](#assessment-modal) modal. 
          On clicking **Ok** button new settings are applied. 
 		- User can also export the selected assessment template by clicking on **Export** button.
      - **Updated on :** This column gives date of template's last updation.
@@ -60,7 +60,7 @@
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NjQzNjE0MCwxMDQ4NDM2MzkwLDE4Mz
-A0OTYwMzAsMTE2NDMzOTIwLDYzOTY3Nzk4OSwtMjA2Njk1NTA1
-MV19
+eyJoaXN0b3J5IjpbMjA4MzcwNTY0LDEwNDg0MzYzOTAsMTgzMD
+Q5NjAzMCwxMTY0MzM5MjAsNjM5Njc3OTg5LC0yMDY2OTU1MDUx
+XX0=
 -->
