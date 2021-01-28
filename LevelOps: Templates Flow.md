@@ -30,7 +30,7 @@
      - **Updated on :** This column gives date of template's last updation.
      - **Tags :** This column gives info about tags added to the assessment.
      - **Actions :** This column is provided with actions namely **Clone**, **Export** and **Delete** the assessment template.
- 4. User can filter the assessment list on the basis of tags, by clicking on filter button which offers, user a list of tags to select from. On selecting tags, filters are applied to the list.
+ 4. User can filter the assessment list on the basis of tags, by clicking on filter button which offers user, a list of tags to select from. On selecting tags, filters are applied to the list.
 ## <a id="issue-templates"> Issue Template Flow :</a>
  1. On clicking  **Issue Templates** option, user is navigated to [http://localhost:3000/#/admin/templates/issue-templates](http://localhost:3000/#/admin/templates/issue-templates).
  
@@ -60,7 +60,7 @@
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4MzcwNTY0LDEwNDg0MzYzOTAsMTgzMD
-Q5NjAzMCwxMTY0MzM5MjAsNjM5Njc3OTg5LC0yMDY2OTU1MDUx
-XX0=
+eyJoaXN0b3J5IjpbLTExOTI1NDkzOCwxMDQ4NDM2MzkwLDE4Mz
+A0OTYwMzAsMTE2NDMzOTIwLDYzOTY3Nzk4OSwtMjA2Njk1NTA1
+MV19
 -->
