@@ -54,14 +54,14 @@
  
  2. **Deletion :** Assessment Template List and Issue Template List both are provided with an action button for deleting template. On clicking delete button from **Actions** column, a popover opens which asks for confirmation for deletion. On clicking **Ok** button, the selected template is deleted.
  3. **Search Bar :** Search bar allows user to search the required template out of the list by typing keyword.
- ## <a>**C
+ ## <a id="common-all">**Similar To All :**</a>
 
          
 
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE0NjI3NjQ5LDE2Mzk3NzUwMSwxMDQ4ND
+eyJoaXN0b3J5IjpbNjEzNTkyNDE0LDE2Mzk3NzUwMSwxMDQ4ND
 M2MzkwLDE4MzA0OTYwMzAsMTE2NDMzOTIwLDYzOTY3Nzk4OSwt
 MjA2Njk1NTA1MV19
 -->
