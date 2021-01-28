@@ -11,7 +11,7 @@
          - On clicking this button a **Modal** opens up which offers, drag and drop or browse from device, for uploading CSV file.
      - **Add Assessment Template :**
          - On clicking this button user is navigated to [http://localhost:3000/#/admin/templates/assessment-templates/create](http://localhost:3000/#/admin/templates/assessment-templates/create) and a **Assessment Template Settings** modal opens up by default. This modal allows user to set  basic information about the template like **Name**, **Knowledge Base**, **Tags**  etc. 
-         -  Clicking on cancel will redirect you back to [http://localhost:3000/#/admin/templates/assessment-templates](http://localhost:3000/#/admin/templates/assessment-templates)
+         -  Clicking on cancel will redirect you back to [http://localhost:3000/#/admin/templates/assessment-templates](http://localhost:3000/#/admin/templates/assessment-templates).
          
          - On clicking **Ok** button a basic skeleton of users new assessment template is created.
          - Now user can edit the template by adding more sections. Each section can have any number of questions.
@@ -60,6 +60,6 @@
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzMDQ5NjAzMCwxMTY0MzM5MjAsNjM5Nj
-c3OTg5LC0yMDY2OTU1MDUxXX0=
+eyJoaXN0b3J5IjpbMTA0ODQzNjM5MCwxODMwNDk2MDMwLDExNj
+QzMzkyMCw2Mzk2Nzc5ODksLTIwNjY5NTUwNTFdfQ==
 -->
