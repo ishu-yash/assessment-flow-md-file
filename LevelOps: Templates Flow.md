@@ -10,13 +10,13 @@
      - **Import from CSV :**
          - On clicking this button a **Modal** opens up which offers, drag and drop or browse from device, for uploading CSV file.
      - **Add Assessment Template :**
-         - On clicking this button user is navigated to [http://localhost:3000/#/admin/templates/assessment-templates/create](http://localhost:3000/#/admin/templates/assessment-templates/create) and a <a**Assessment Template Settings** modal opens up by default. This modal allows user to set  basic information about the template like **Name**, **Knowledge Base**, **Tags**  etc. 
+         - On clicking this button user is navigated to [http://localhost:3000/#/admin/templates/assessment-templates/create](http://localhost:3000/#/admin/templates/assessment-templates/create) and a <a id="assessment-modal">**Assessment Template Settings**</a> modal opens up by default. This modal allows user to set  basic information about the template like **Name**, **Knowledge Base**, **Tags**  etc. 
          -  Clicking on cancel will redirect you back to [http://localhost:3000/#/admin/templates/assessment-templates](http://localhost:3000/#/admin/templates/assessment-templates).
          
          - On clicking **Ok** button a basic skeleton of users new assessment template is created.
          - Now user can edit the template by adding more sections. Each section can have any number of questions.
        
-         - Once, user has added all the sections, user can save the assessment template by clicking **Save** button which navigates the user back to [http://localhost:3000/#/admin/templates/assessment-templates](http://localhost:3000/#/admin/templates/assessment-templates) or can edit assessment settings by clicking **Settings** button which opens **Assessment Template Settings** modal. 
+         - Once, user has added all the sections, user can save the assessment template by clicking **Save** button which navigates the user back to [http://localhost:3000/#/admin/templates/assessment-templates](http://localhost:3000/#/admin/templates/assessment-templates) or can edit assessment settings by clicking **Settings** button which opens [**Assessment Template Settings**](#assessment-modal) modal. 
  
  3. User is presented with a table which has following four columns:
     - **Name :**
@@ -60,7 +60,7 @@
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYzNDE2NTY2LDEwNDg0MzYzOTAsMTgzMD
-Q5NjAzMCwxMTY0MzM5MjAsNjM5Njc3OTg5LC0yMDY2OTU1MDUx
-XX0=
+eyJoaXN0b3J5IjpbMTU4NjQzNjE0MCwxMDQ4NDM2MzkwLDE4Mz
+A0OTYwMzAsMTE2NDMzOTIwLDYzOTY3Nzk4OSwtMjA2Njk1NTA1
+MV19
 -->
