@@ -44,7 +44,7 @@
 		- Once user has set template name in the **Settings**, **Save** button is enabled and now user can save issue template. On clicking **Save** button user is navigated back to [http://localhost:3000/#/admin/templates/issue-templates](http://localhost:3000/#/admin/templates/issue-templates).
  4. User is presented with a table which has following five columns:
 	- **Name :**	    
-		- On clicking any cell user is navigated to [http://localhost:3000/#/admin/templates/issue-templates/edit?template={id}](http://localhost:3000/#/admin/templates/issue-templates/edit).  Here **id** is the id of clicked issue template. The function of the current page is same as the page to which user gets navigated on clicking [**Add Issue Template**]() button.
+		- On clicking any cell user is navigated to [http://localhost:3000/#/admin/templates/issue-templates/edit?template={id}](http://localhost:3000/#/admin/templates/issue-templates/edit).  Here **id** is the id of clicked issue template. The function of the current page is same as the page to which user gets navigated on clicking [**Add Issue Template**](#add-issue-template) button.
 	- **Updated On :** This column gives date of last updation of issue template.
 	 - **Enabled :** This column tells whether the issue template is enabled or not.
 	- **Default**: This column tells whether the issue template is default or not.
@@ -60,7 +60,7 @@
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM5ODAzODQ0LDEwNDg0MzYzOTAsMTgzMD
+eyJoaXN0b3J5IjpbMTYzOTc3NTAxLDEwNDg0MzYzOTAsMTgzMD
 Q5NjAzMCwxMTY0MzM5MjAsNjM5Njc3OTg5LC0yMDY2OTU1MDUx
 XX0=
 -->
