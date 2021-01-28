@@ -2,6 +2,7 @@
 * [Assessments Templates Flow](#assessment-templates)
 * [Issue Template Flow](#issue-templates)
 * [Similarities Between Two Flows](#common)
+* [Similar To All ](#common-all)
 
 ## <a id="assessment-templates">Assessments Templates Flow :</a>
 
@@ -55,13 +56,18 @@
  2. **Deletion :** Assessment Template List and Issue Template List both are provided with an action button for deleting template. On clicking delete button from **Actions** column, a popover opens which asks for confirmation for deletion. On clicking **Ok** button, the selected template is deleted.
  3. **Search Bar :** Search bar allows user to search the required template out of the list by typing keyword.
  ## <a id="common-all">**Similar To All :**</a>
-
-         
+1. Clicking on `Respective Template` should navigate to the `list page for that template`.
+2. Clicking on an existing template name should navigate you to the edit page for that template.
+3. Clicking on `Add Template` should navigate you to create template page. 
+4. On the edit template page, the update button should be enabled by default.
+5. In create template page, the create button should be disabled by default.
+6. The create/update button should be disabled if there is any required field empty.
+7. After creating/updating, you should be redirected back to the `list page for that template`.
 
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjEzNTkyNDE0LDE2Mzk3NzUwMSwxMDQ4ND
-M2MzkwLDE4MzA0OTYwMzAsMTE2NDMzOTIwLDYzOTY3Nzk4OSwt
-MjA2Njk1NTA1MV19
+eyJoaXN0b3J5IjpbMTY3OTQ3ODU5MiwxNjM5Nzc1MDEsMTA0OD
+QzNjM5MCwxODMwNDk2MDMwLDExNjQzMzkyMCw2Mzk2Nzc5ODks
+LTIwNjY5NTUwNTFdfQ==
 -->
