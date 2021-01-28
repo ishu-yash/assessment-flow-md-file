@@ -46,6 +46,7 @@
  4. User is presented with a table which has following five columns:
 	- **Name :**	    
 		- On clicking any cell user is navigated to [http://localhost:3000/#/admin/templates/issue-templates/edit?template={id}](http://localhost:3000/#/admin/templates/issue-templates/edit).  Here **id** is the id of clicked issue template. The function of the current page is same as the page to which user gets navigated on clicking [**Add Issue Template**](#add-issue-template) button.
+	
 	- **Updated On :** This column gives date of last updation of issue template.
 	 - **Enabled :** This column tells whether the issue template is enabled or not.
 	- **Default**: This column tells whether the issue template is default or not.
@@ -59,6 +60,7 @@
  -  Clicking on **Respective Template** should navigate to the  list page for that template.
 -  Clicking on an existing template name should navigate you to the edit page for that template.
 -  Clicking on  **Add Template** should navigate you to create template page. 
+
 - On the edit template page, the update button should be enabled by default.
 -  In create template page, the create button should be disabled by default.
 -  The create/update button should be disabled if there is any required field empty.
@@ -67,7 +69,7 @@
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc3OTk2MzksMTY3OTQ3ODU5MiwxNjM5Nz
-c1MDEsMTA0ODQzNjM5MCwxODMwNDk2MDMwLDExNjQzMzkyMCw2
-Mzk2Nzc5ODksLTIwNjY5NTUwNTFdfQ==
+eyJoaXN0b3J5IjpbMTU1NzMxOTY3OSwxNjc5NDc4NTkyLDE2Mz
+k3NzUwMSwxMDQ4NDM2MzkwLDE4MzA0OTYwMzAsMTE2NDMzOTIw
+LDYzOTY3Nzk4OSwtMjA2Njk1NTA1MV19
 -->
